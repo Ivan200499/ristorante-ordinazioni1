@@ -1,0 +1,16 @@
+{
+  "name": "ristorante-ordinazioni",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
